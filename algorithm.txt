@@ -1,0 +1,28 @@
+@startmindmap
+* Algorithm
+** TrainingOptimizer
+*** AdaDelta
+*** AdaGrad
+*** AdaGradDA
+*** Adam
+*** Ftrl
+*** GradientDescent
+*** Momentum
+*** ProximalAdaGrad
+*** ProximalGradientDescent
+*** RMSProp
+** WeightInitialization
+*** Constant
+**** OnesInitialization
+**** ZerosInitialization
+*** He
+*** Identity
+*** LeCun
+*** NormalInitialization
+**** TruncatedNormal
+*** Orthogonal
+*** UniformInitialization
+*** UniformUnitScaling
+*** VarianceScaling
+*** Xavier
+@endmindmap

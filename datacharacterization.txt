@@ -1,0 +1,22 @@
+@startmindmap
+* DataCharacterization
+** Nature
+*** Fauna
+*** Flora
+*** Scenery
+** NumbersAndLetters
+*** LettersDigits
+*** NumericalDigits
+**** HandWrittenDigits
+** People
+*** Faces
+** Science
+*** Biology
+*** Physics
+**** Astronomy
+**** Climate
+**** Weather
+** Urban
+*** Buildings
+*** Vehicles
+@endmindmap

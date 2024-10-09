@@ -1,0 +1,9 @@
+@startmindmap
+* DataType
+** Image
+** MultiDimensionalCube
+** Text
+*** SemistructuredText
+*** UnstructuredText
+** Video
+@endmindmap

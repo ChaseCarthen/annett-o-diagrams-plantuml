@@ -1,0 +1,31 @@
+@startmindmap
+* Layer
+** HiddenLayer
+*** ActivationLayer
+**** ConvolutionLayer
+***** SeparableConvolutionLayer
+**** DeconvolutionLayer
+***** SeparableDeconvolutionLayer
+**** FullyConnectedLayer
+**** RNNLayer
+***** GRULayer
+***** LSTMLayer
+*** AggregationLayer
+**** BidirectionalRNNLayer
+**** ConcatLayer
+**** MultiplyLayer
+**** PoolingLayer
+**** SumLayer
+**** UpscaleLayer
+*** ModificationLayer
+**** BatchNormLayer
+**** DropoutLayer
+**** FlattenLayer
+**** NoiseLayer
+*** SeparationLayer
+**** CloneLayer
+**** SplitLayer
+** InOutLayer
+*** InputLayer
+*** OutputLayer
+@endmindmap

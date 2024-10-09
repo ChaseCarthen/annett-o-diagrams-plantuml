@@ -1,0 +1,12 @@
+@startmindmap
+* TaskCharacterization
+** Adversarial
+** Classification
+*** SemiSupervisedClassification
+*** SupervisedClassification
+** Clustering
+** Discrimination
+** Generation
+** Reconstruction
+** Regression
+@endmindmap
